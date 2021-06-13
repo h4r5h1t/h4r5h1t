@@ -24,7 +24,7 @@ I am **Harshit Raj Singh** aka **G!2m0** 👨‍💻 a Cyber Security Enthusiast
 <br>
   <div> 
     <img width = '32px'  src="https://cdn.worldvectorlogo.com/logos/python-5.svg"/>
-    <img width = '32px'  src="https://cdn.worldvectorlogo.com/logos/bash-1.svg"/> 
+    <img width = '88px'  src="https://cdn.worldvectorlogo.com/logos/bash-1.svg"/> 
     <img width = '32px'  src="https://cdn.worldvectorlogo.com/logos/c.svg"/>
     <img width = '32px'  src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg"/>
     <img width = '32px'  src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg"/>
@@ -34,8 +34,8 @@ I am **Harshit Raj Singh** aka **G!2m0** 👨‍💻 a Cyber Security Enthusiast
     <img width = '32px'  src="https://cdn.worldvectorlogo.com/logos/git-icon.svg"/>
     <img width = '42px'  src="https://cdn.worldvectorlogo.com/logos/arduino.svg"/>
     <img width = '32px'  src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg"/>
-    <img width = '42px'  src="https://cdn.worldvectorlogo.com/logos/vmware-1.svg"/>
-    <img width = '42px'  src="https://cdn.worldvectorlogo.com/logos/wireshark.svg"/>
+    <img width = '142px'  src="https://cdn.worldvectorlogo.com/logos/vmware-1.svg"/>
+    <img width = '152px'  src="https://cdn.worldvectorlogo.com/logos/wireshark.svg"/>
   </div>
   
 ### Connect with me on<img align='center' src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
