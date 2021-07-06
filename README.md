@@ -18,9 +18,9 @@ I am **Harshit Raj Singh** aka **G!2m0** 👨‍💻  a Security Researcher 💻
 - ✔️ Networking Security <br>
 - ✔️ OSINT <br>
 - ✔️ Playing CTFs and completing rooms on <a href="https://www.tryhackme.com/p/h4r5h1t.hrs">TryHackMe</a> <br>
-- ✔️ Languages: Python, Shell Scripting, HTML, CSS, Javascript, C/C++ <br>
-- ✔️ OS: Linux (Kali, Ubuntu) & Windows <br>
-- ✔️ Tools: Nmap, Maltego, Burpsuite, Wireshark, CISCO Packet Tracer
+- ✔️ **Languages:** Python, Shell Scripting, HTML, CSS, Javascript, C/C++ <br>
+- ✔️ **OS:** Linux (Kali, Ubuntu) & Windows <br>
+- ✔️ **Tools:** Nmap, Maltego, Burpsuite, Wireshark, CISCO Packet Tracer
 - ✔️ Version Control (Git & Github) <br>
 - ✔️ Automating boring stuff with Programming <br>
 <br>
