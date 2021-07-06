@@ -6,7 +6,8 @@ Thank You for taking the time to view my GitHub Profile 🙂:
 
 ## 👽 wh04m1 ? 🤔 
 
-I am **Harshit Raj Singh** aka **G!2m0** 👨‍💻 a Cyber Security Enthusiast 💻 and a Python Programmer 🐍 , I break into networks & applications 📲 so that no other one can break-in 📴 , I love 💖 automating boring stuffs and contributing to the infosec community. 👨‍👨‍👦‍👦
+I am **Harshit Raj Singh** aka **G!2m0** 👨‍💻  a Security Researcher 💻 and a Python Programmer 🐍 , I love 💖 automating ⚙️ boring stuff and contributing to the infosec community 🌐.
+
  
 ### Skills <img align='center' src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> <br>
 <p align="right">
@@ -15,12 +16,13 @@ I am **Harshit Raj Singh** aka **G!2m0** 👨‍💻 a Cyber Security Enthusiast
 - ✔️ Web Application & Network Penetration Testing <br>
 - ✔️ IT Support & Automation <br>
 - ✔️ Networking Security <br>
-- ✔️ Playing CTFs and completing rooms on <a href="https://www.tryhackme.com/p/h4r5h1t.hrs">TryHackMe</a> <br>
-- ✔️ Python, Shell Scripting, Javascript, C/C++, HTML, CSS <br>
-- ✔️ Automating boring tasks with programming <br>
-- ✔️ Linux & Windows <br>
 - ✔️ OSINT <br>
+- ✔️ Playing CTFs and completing rooms on <a href="https://www.tryhackme.com/p/h4r5h1t.hrs">TryHackMe</a> <br>
+- ✔️ Languages: Python, Shell Scripting, HTML, CSS, Javascript, C/C++ <br>
+- ✔️ OS: Linux (Kali, Ubuntu) & Windows <br>
+- ✔️ Tools: Nmap, Maltego, Burpsuite, Wireshark, CISCO Packet Tracer
 - ✔️ Version Control (Git & Github) <br>
+- ✔️ Automating boring stuff with Programming <br>
 <br>
   <div> 
     <img width = '32px'  src="https://cdn.worldvectorlogo.com/logos/python-5.svg"/>
@@ -35,7 +37,6 @@ I am **Harshit Raj Singh** aka **G!2m0** 👨‍💻 a Cyber Security Enthusiast
     <img width = '42px'  src="https://cdn.worldvectorlogo.com/logos/arduino.svg"/>
     <img width = '32px'  src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg"/>
     <img width = '142px'  src="https://cdn.worldvectorlogo.com/logos/vmware-1.svg"/>
-    <img width = '152px'  src="https://cdn.worldvectorlogo.com/logos/wireshark.svg"/>
   </div>
   
 ### Connect with me on<img align='center' src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
