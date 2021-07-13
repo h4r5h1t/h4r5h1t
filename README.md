@@ -31,11 +31,10 @@ I am **Harshit Raj Singh** aka **G!2m0** 👨‍💻  a Security Researcher 💻
     <img width = '32px'  src="https://cdn.worldvectorlogo.com/logos/c.svg"/>
     <img width = '32px'  src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg"/>
     <img width = '32px'  src="https://cdn.worldvectorlogo.com/logos/wordpress-blue.svg"/>
-    <img width = '32px'  src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg"/>
-    <img width = '32px'  src="https://iconscout.com/icon/html-3628838"/>
+    <img width = '34px'  src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg"/>
     <img width = '32px'  src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg"/> 
     <img width = '32px'  src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg"/>
-    <img width = '42px'  src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg"/>
+    <img width = '33px'  src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg"/>
     <img width = '32px'  src="https://cdn.worldvectorlogo.com/logos/git-icon.svg"/>
     <img width = '42px'  src="https://cdn.worldvectorlogo.com/logos/arduino.svg"/>
     <img width = '32px'  src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg"/>
