@@ -1,4 +1,4 @@
-#  Harshit Raj Singh 👨‍💻
+#  Harshit Raj Singh <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h1>
 
 ## 🤖 Hello Fr13nds!  <img src="https://github.com/abhishekapk/abhishekapk/blob/master/Assests/Hi.gif" width="29px"> 
 <img src="https://media.giphy.com/media/3pTZ5pUYLUHh6/giphy.gif">
@@ -22,6 +22,7 @@ I am **Harshit Raj Singh** aka **G!2m0** 👨‍💻  a Security Researcher 💻
 - ✔️ <b>OS:</b> Linux (Kali, Ubuntu) & Windows <br>
 - ✔️ <b>Tools:</b> Nmap, Maltego, Burpsuite, Wireshark, CISCO Packet Tracer
 - ✔️ Version Control (Git & Github) <br>
+- ✔️ Wordpress, Elementor, Bootstrap Studio <br>
 - ✔️ Automating boring stuff with Programming <br>
 <br>
   <div> 
@@ -29,7 +30,9 @@ I am **Harshit Raj Singh** aka **G!2m0** 👨‍💻  a Security Researcher 💻
     <img width = '88px'  src="https://cdn.worldvectorlogo.com/logos/bash-1.svg"/> 
     <img width = '32px'  src="https://cdn.worldvectorlogo.com/logos/c.svg"/>
     <img width = '32px'  src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg"/>
-    <img width = '32px'  src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg"/>
+    <img width = '32px'  src="https://cdn.worldvectorlogo.com/logos/wordpress-blue.svg"/>
+    <img width = '32px'  src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg"/>
+    <img width = '32px'  src="https://iconscout.com/icon/html-3628838"/>
     <img width = '32px'  src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg"/> 
     <img width = '32px'  src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg"/>
     <img width = '42px'  src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg"/>
