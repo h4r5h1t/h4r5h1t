@@ -4,7 +4,7 @@
 
 <!-- Banner Background -->
 ![Banner](image.png)
-<img src="https://media.giphy.com/media/3pTZ5pUYLUHh6/giphy.gif" style="position: absolute; top: 66%; left: 86%; transform: translate(-50%, -50%);">
+<img src="https://media.giphy.com/media/3pTZ5pUYLUHh6/giphy.gif" align="right">
 
 Thank You for taking the time to view my GitHub Profile! 😊
 
