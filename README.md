@@ -25,7 +25,7 @@ I am proficient in several languages including Python, Shell Scripting, HTML, an
 
 In addition to my technical skills, I have experience with version control using Git and GitHub and have worked with Selenium, Docker, WordPress, and Elementor. I am familiar with the Agile Methodology (Scrum) and enjoy participating in CTFs and completing rooms on [TryHackMe]("https://www.tryhackme.com/p/h4r5h1t.hrs") (to train for battles).
 
-<p align="right"> <img src="https://media.giphy.com/media/Sb7WSbjHFNIL6/giphy.gif" width="23%" align="right"> </p>
+<p align="right"> <img src="https://media.giphy.com/media/Sb7WSbjHFNIL6/giphy.gif" width="25%" align="right"> </p>
 
 When I'm not busy securing the interwebs, you can find me binge-watching 📺 the latest anime releases or reading 📖 the latest manga, manhwa or manhua. I'm a total otaku at heart and love nothing more than immersing myself in the world of Japanese animation and comics, it's like a superpower that helps me protect the cyber world from all kinds of threats.
 
