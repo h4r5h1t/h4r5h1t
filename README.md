@@ -3,7 +3,7 @@
 ## 🤖 Hello Fr13nds!  <img src="https://github.com/abhishekapk/abhishekapk/blob/master/Assests/Hi.gif" width="29px"> 
 <img src="https://media.giphy.com/media/3pTZ5pUYLUHh6/giphy.gif">
 
-Thank You for taking the time to view my GitHub Profile! 🙂: 
+Thank You for taking the time to view my GitHub Profile! 😊
 
 ## 👽 wh04m1 ? 🤔 💖
 
