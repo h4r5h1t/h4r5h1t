@@ -23,12 +23,11 @@ My name is **Harshit Raj Singh** aka **G!2m0** 👨‍💻, and I am a Security 
 
 I am proficient in several languages including Python, Shell Scripting, HTML, and CSS, and have basic knowledge of JavaScript, C/C++, and Golang. I have experience working with Linux (Kali, Ubuntu, Fedora) and Windows operating systems and am familiar with a range of tools such as Nmap, Burpsuite, Maltego, Wireshark, CISCO Packet Tracer and more. I have also helped in implementing CI/CD in my company and have written test cases for the projects.
 
-In addition to my technical skills, I have experience with version control using Git and GitHub, and have worked with Selenium, Docker, WordPress, and Elementor. I am familiar with the Agile Methodology (Scrum) and enjoy participating in CTFs and completing rooms on [TryHackMe]("https://www.tryhackme.com/p/h4r5h1t.hrs") (to train for battles).
+In addition to my technical skills, I have experience with version control using Git and GitHub and have worked with Selenium, Docker, WordPress, and Elementor. I am familiar with the Agile Methodology (Scrum) and enjoy participating in CTFs and completing rooms on [TryHackMe]("https://www.tryhackme.com/p/h4r5h1t.hrs") (to train for battles).
 
-<p align="right"> <img src="https://media.giphy.com/media/Sb7WSbjHFNIL6/giphy.gif" width="23%" align="right">
-</p>
+<p align="right"> <img src="https://media.giphy.com/media/Sb7WSbjHFNIL6/giphy.gif" width="23%" align="right"> </p>
 
-When I'm not busy securing the interwebs, you can find me binge-watching 📺 the latest anime releases or reading 📖 the latest manga, manhwa or manhua. I'm a total otaku at heart and love nothing more than immersing myself in the world of Japanese animation and comics, it's like a superpower that helps me protect the cyber world from all kind of threats.
+When I'm not busy securing the interwebs, you can find me binge-watching 📺 the latest anime releases or reading 📖 the latest manga, manhwa or manhua. I'm a total otaku at heart and love nothing more than immersing myself in the world of Japanese animation and comics, it's like a superpower that helps me protect the cyber world from all kinds of threats.
 
 You can also follow my anime journey on [MyAnimeList](https://myanimelist.net/profile/G12m0x19) and [Anilist](https://anilist.co/user/G12M0X19/), where I keep track of all the anime and man-ga/hwa/hua that I have watched or read and rate them accordingly. I am always on the lookout for new and exciting anime and man-ga/hwa/hua to add to my list, so feel free to drop me a recommendation.
 
