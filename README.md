@@ -1,8 +1,12 @@
 #  Harshit Raj Singh <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h1>
 
 ## 🤖 Hello Fr13nds!  <img src="https://github.com/abhishekapk/abhishekapk/blob/master/Assests/Hi.gif" width="29px"> 
-<img src="https://media.giphy.com/media/3pTZ5pUYLUHh6/giphy.gif">
 
+<!-- Banner Background -->
+<div style="background-image: url('banner.png'); width: 100%; height: 285px; background-size: cover; background-repeat: no-repeat; position: relative;">
+  <img src="https://media.giphy.com/media/3pTZ5pUYLUHh6/giphy.gif" style="position: absolute; top: 66%; left: 25%; transform: translate(-50%, -50%);">
+</div>
+<br>
 Thank You for taking the time to view my GitHub Profile! 😊
 
 ## 👽 wh04m1 ? 🤔 💖
