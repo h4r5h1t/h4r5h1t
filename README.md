@@ -10,8 +10,10 @@ Thank You for taking the time to view my GitHub Profile! 😊
 
 ## 👽 wh04m1 ? 🤔 💖
 
-My name is **Harshit Raj Singh**, but you can call me **G!2m0** 👨‍💻. I am a Security & Automation Engineer 💻 from planet Cybersecurity 🌏. I hold a Bachelor's degree in Computer Science and Engineering 🎓 and am skilled in Security Automation, Application Security, and Penetration Testing. My mission is to automate tedious tasks and contribute to the infosec community 🌐.
- 
+My name is **Harshit Raj Singh**, but you can call me **G!2m0** 👨‍💻. I am a Security & Automation Engineer 💻 from planet Cybersecurity 🌏, here to protect the digital realm from all kinds of threats. With a Bachelor's degree in Computer Science and Engineering 🎓 under my belt, I am well-versed in Security Automation, Application Security, and Penetration Testing. 
+
+My goal is to use my skills to automate tedious tasks and make a positive impact on the infosec community 🌐. 
+
 ### My key skills include: <img align='center' src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> <br>
 <p align="right"> <img src="https://media.giphy.com/media/JOLlBirHkuoVRPOMnZ/giphy.gif" width="23%" align="right">
 </p>
@@ -23,10 +25,9 @@ My name is **Harshit Raj Singh**, but you can call me **G!2m0** 👨‍💻. I a
 - ✔️ Network Security (to protect my communication with HQ) <br>
 - ✔️ OSINT (to gather intel on the enemy) <br>
 
-
 I am proficient in several languages including Python, Shell Scripting, HTML, and CSS, and have basic knowledge of JavaScript, C/C++, and Golang. I have experience working with Linux (Kali, Ubuntu, Fedora) and Windows operating systems and am familiar with a range of tools such as Nmap, Burpsuite, Maltego, Wireshark, CISCO Packet Tracer and more. I have also helped in implementing CI/CD in my company and have written test cases for the projects.
 
-In addition to my technical skills, I have experience with version control using Git and GitHub and have worked with Selenium, Docker, WordPress, and Elementor. I am familiar with the Agile Methodology (Scrum) and enjoy participating in CTFs and completing rooms on [TryHackMe](https://www.tryhackme.com/p/h4r5h1t.hrs) (to train for battles).
+In addition to my technical skills, I have experience with version control using Git and GitHub and have worked with Selenium, Docker, WordPress, and Elementor. I am familiar with the Agile Methodology (Scrum) and enjoy participating in various labs on [TryHackMe](https://www.tryhackme.com/p/h4r5h1t.hrs) and [PortSwigger](https://portswigger.net/web-security/) to sharpen my skills and prepare for any cyber battles.
 
 <p align="right"> <img src="https://media.giphy.com/media/Sb7WSbjHFNIL6/giphy.gif" width="25%" align="right"> </p>
 
