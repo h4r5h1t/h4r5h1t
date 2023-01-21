@@ -1,6 +1,6 @@
 #  Harshit Raj Singh <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h1>
 
-## 🤖 Hello Fr13nds!  <img src="https://github.com/abhishekapk/abhishekapk/blob/master/Assests/Hi.gif" width="29px"> 
+## 🤖 H3770 Fr13nds!  <img src="https://github.com/abhishekapk/abhishekapk/blob/master/Assests/Hi.gif" width="29px"> 
 
 <!-- Banner Background -->
 ![Banner](image.png)
@@ -10,7 +10,7 @@ Thank You for taking the time to view my GitHub Profile! 😊
 
 ## 👽 wh04m1 ? 🤔 💖
 
-My name is **Harshit Raj Singh** aka **G!2m0** 👨‍💻, and I am a Security & Automation Engineer 💻 from planet Cybersecurity 🌏. I hold a Bachelor's degree in Computer Science and Engineering 🎓 and am skilled in Security Automation, Application Security, and Penetration Testing. My mission is to automate tedious tasks and contribute to the infosec community 🌐.
+My name is **Harshit Raj Singh**, but you can call me **G!2m0** 👨‍💻. I am a Security & Automation Engineer 💻 from planet Cybersecurity 🌏. I hold a Bachelor's degree in Computer Science and Engineering 🎓 and am skilled in Security Automation, Application Security, and Penetration Testing. My mission is to automate tedious tasks and contribute to the infosec community 🌐.
  
 ### My key skills include: <img align='center' src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> <br>
 <p align="right"> <img src="https://media.giphy.com/media/JOLlBirHkuoVRPOMnZ/giphy.gif" width="23%" align="right">
@@ -34,9 +34,8 @@ When I'm not busy securing the interwebs, you can find me binge-watching 📺 th
 
 You can also follow my anime journey on [MyAnimeList](https://myanimelist.net/profile/G12m0x19) and [Anilist](https://anilist.co/user/G12M0X19/), where I keep track of all the anime and man-ga/hwa/hua that I have watched or read and rate them accordingly. I am always on the lookout for new and exciting anime and man-ga/hwa/hua to add to my list, so feel free to drop me a recommendation.
 
-But don't let my love for anime fool you, when it comes to cybersecurity, I am all business. 
+But don't let my love for anime fool you, when it comes to cybersecurity, I am all about staying sharp and getting the job done. I am dedicated to staying up-to-date with the latest developments and trends in the field of information security. So, keep an eye out for my public repository and leave me a star if you find any of my projects useful. Follow my [GitHub](https://github.com/h4r5h1t-hrs) profile to see my progress and join me on my journey to save the galaxy from cyber threats!🚀
 
-Overall, I am dedicated to staying up-to-date with the latest developments and trends in the field of information security. So, keep an eye out for my public repository and leave me a star if you find any of my projects useful. Follow my GitHub profile to see my progress and join me on my journey to save the galaxy from cyber threats!🚀
 <br>
 <!-- Logos -->
   <div> 
@@ -46,7 +45,6 @@ Overall, I am dedicated to staying up-to-date with the latest developments and t
     <img width = '33px'  src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg"/>
     <img width = '30px'  src="https://cdn.worldvectorlogo.com/logos/html-1.svg"/>
     <img width = '30px'  src="https://cdn.worldvectorlogo.com/logos/css-3.svg"/>
-    <img width = '33px'  src="https://cdn.worldvectorlogo.com/logos/c.svg"/>
     <img width = '33px'  src="https://cdn.worldvectorlogo.com/logos/c.svg"/>
     <img width = '33px'  src="https://cdn.worldvectorlogo.com/logos/wordpress-blue.svg"/>
     <img width = '33px'  src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg"/> 
