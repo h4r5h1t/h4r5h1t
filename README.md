@@ -40,9 +40,9 @@ I may be a total otaku at heart, but don't let my love for anime fool you, when 
 
 Not only that, I also contribute to open-source community by creating security tools that can help others protect their digital assets. You can check out my public repository on GitHub, leave me a star if you find any of my projects useful, and follow my [GitHub](https://github.com/h4r5h1t-hrs) profile to see my progress and join me on my journey to save the galaxy from cyber threats!🚀
 
-![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=h4r5h1t-hrs&count_private=true&show_icons=true&include_all_commits=true)
+![Harshit's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=h4r5h1t-hrs&count_private=true&show_icons=true&include_all_commits=true)
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="19%"/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h4r5h1t-hrs&card_width=466)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=h4r5h1t-hrs&card_width=495)
 
 <br>
 <!-- Logos -->
