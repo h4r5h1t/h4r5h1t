@@ -8,6 +8,8 @@
 
 Thank You for taking the time to view my GitHub Profile! 😊
 
+![](https://komarev.com/ghpvc/?username=h4r5h1t-hrs&color=brightgreen)
+
 ## 👽 wh04m1 ? 🤔 💖
 
 My name is **Harshit Raj Singh**, but you can call me **G!2m0** 👨‍💻. I am a Security & Automation Engineer 💻 from planet Cybersecurity 🌏, here to protect the digital realm from all kinds of threats. With a Bachelor's degree in Computer Science and Engineering 🎓 under my belt, I am well-versed in Security Automation, Application Security, and Penetration Testing. 
@@ -37,6 +39,10 @@ You can stay updated on my anime journey by following me on [MyAnimeList](https:
 I may be a total otaku at heart, but don't let my love for anime fool you, when it comes to cybersecurity, I am all business. I stay sharp by keeping up with the latest developments and trends in the field, and I also share my knowledge and insights with others through my writing on [Medium](https://h4r5h1t-hrs.medium.com/).
 
 Not only that, I also contribute to open-source community by creating security tools that can help others protect their digital assets. You can check out my public repository on GitHub, leave me a star if you find any of my projects useful, and follow my [GitHub](https://github.com/h4r5h1t-hrs) profile to see my progress and join me on my journey to save the galaxy from cyber threats!🚀
+
+![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=h4r5h1t-hrs&count_private=true&show_icons=true&include_all_commits=true)
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="19%"/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h4r5h1t-hrs&card_width=333)
 
 <br>
 <!-- Logos -->
@@ -69,5 +75,3 @@ Not only that, I also contribute to open-source community by creating security t
 [![Medium Badge](https://img.shields.io/twitter/url?color=1ca0f1&label=@h4r5h1t-hrs&logo=Medium&logoColor=1ca0f1&style=for-the-badge&url=https://medium.com/@h4r5h1t-hrs)](https://medium.com/@h4r5h1t-hrs)
 [![Instagram Badge](https://img.shields.io/twitter/url?color=1ca0f1&label=h4r5h1t.hrs&logo=Instagram&logoColor=1ca0f1&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com%2Fh4r5h1t.hrs%2F)](https://www.instagram.com/h4r5h1t.hrs/)
 [![GitHub followers Badge](https://img.shields.io/twitter/url?color=1ca0f1&label=h4r5h1t-hrs&logo=github&logoColor=1ca0f1&style=for-the-badge&url=https%3A%2F%2Fgithub.com%2Fh4r5h1t-hrs%3Ftab%3Dfollowers)](https://github.com/h4r5h1t-hrs?tab=followers)
-
-![](https://komarev.com/ghpvc/?username=h4r5h1t-hrs&color=brightgreen)
