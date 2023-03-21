@@ -16,7 +16,7 @@ My name is **Harshit Raj Singh**, but you can call me **G!2m0** 👨‍💻. I a
 
 My goal is to use my skills to automate tedious tasks and make a positive impact on the infosec community 🌐. 
 
-### My key skills include: <img align='center' src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> <br>
+### My key skills include: <img align='center' src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 33px> <br>
 <p align="right"> <img src="https://media.giphy.com/media/JOLlBirHkuoVRPOMnZ/giphy.gif" width="23%" align="right">
 </p>
 
@@ -42,7 +42,7 @@ Not only that, I also contribute to open-source community by creating security t
 
 ![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=h4r5h1t-hrs&count_private=true&show_icons=true&include_all_commits=true)
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="19%"/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h4r5h1t-hrs&card_width=333)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h4r5h1t-hrs&card_width=333&layout=compact)
 
 <br>
 <!-- Logos -->
