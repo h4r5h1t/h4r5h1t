@@ -42,7 +42,7 @@ Not only that, I also contribute to open-source community by creating security t
 
 ![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=h4r5h1t-hrs&count_private=true&show_icons=true&include_all_commits=true)
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="19%"/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h4r5h1t-hrs&card_width=469)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h4r5h1t-hrs&card_width=466)
 
 <br>
 <!-- Logos -->
