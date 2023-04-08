@@ -8,7 +8,7 @@
 
 Thank You for taking the time to view my GitHub Profile! 😊
 
-![](https://komarev.com/ghpvc/?username=h4r5h1t-hrs&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=h4r5h1t&color=brightgreen)
 
 ## 👽 wh04m1 ? 🤔 💖
 
@@ -40,9 +40,9 @@ I may be a total otaku at heart, but don't let my love for anime fool you, when 
 
 Not only that, I also contribute to open-source community by creating security tools that can help others protect their digital assets. You can check out my public repository on GitHub, leave me a star if you find any of my projects useful, and follow my [GitHub](https://github.com/h4r5h1t-hrs) profile to see my progress and join me on my journey to save the galaxy from cyber threats!🚀
 
-![Harshit's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=h4r5h1t-hrs&count_private=true&show_icons=true&include_all_commits=true)
+![Harshit's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=h4r5h1t&count_private=true&show_icons=true&include_all_commits=true)
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="19%"/>
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=h4r5h1t-hrs&card_width=495)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=h4r5h1t&card_width=495)
 
 <br>
 <!-- Logos -->
@@ -71,7 +71,7 @@ Not only that, I also contribute to open-source community by creating security t
 ### Connect with me on<img align='center' src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
 
 [![Twitter Badge](https://img.shields.io/twitter/url?color=1ca0f1&label=%40h4r5h1t_hrs&logo=twitter&logoColor=1ca0f1&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fh4r5h1t_hrs)](https://twitter.com/h4r5h1t_hrs)
-[![Linkedin Badge](https://img.shields.io/twitter/url?color=1ca0f1&label=h4r5h1t-hrs&logo=LinkedIn&logoColor=1ca0f1&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fh4r5h1t-hrs%2F)](https://www.linkedin.com/in/h4r5h1t-hrs/)
-[![Medium Badge](https://img.shields.io/twitter/url?color=1ca0f1&label=@h4r5h1t-hrs&logo=Medium&logoColor=1ca0f1&style=for-the-badge&url=https://medium.com/@h4r5h1t-hrs)](https://medium.com/@h4r5h1t-hrs)
+[![Linkedin Badge](https://img.shields.io/twitter/url?color=1ca0f1&label=h4r5h1t-hrs&logo=LinkedIn&logoColor=1ca0f1&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fh4r5h1t%2F)](https://www.linkedin.com/in/h4r5h1t/)
+[![Medium Badge](https://img.shields.io/twitter/url?color=1ca0f1&label=@h4r5h1t&logo=Medium&logoColor=1ca0f1&style=for-the-badge&url=https://medium.com/@h4r5h1t-hrs)](https://medium.com/@h4r5h1t)
 [![Instagram Badge](https://img.shields.io/twitter/url?color=1ca0f1&label=h4r5h1t.hrs&logo=Instagram&logoColor=1ca0f1&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com%2Fh4r5h1t.hrs%2F)](https://www.instagram.com/h4r5h1t.hrs/)
-[![GitHub followers Badge](https://img.shields.io/twitter/url?color=1ca0f1&label=h4r5h1t-hrs&logo=github&logoColor=1ca0f1&style=for-the-badge&url=https%3A%2F%2Fgithub.com%2Fh4r5h1t-hrs%3Ftab%3Dfollowers)](https://github.com/h4r5h1t-hrs?tab=followers)
+[![GitHub followers Badge](https://img.shields.io/twitter/url?color=1ca0f1&label=h4r5h1t-hrs&logo=github&logoColor=1ca0f1&style=for-the-badge&url=https%3A%2F%2Fgithub.com%2Fh4r5h1t%3Ftab%3Dfollowers)](https://github.com/h4r5h1t?tab=followers)
