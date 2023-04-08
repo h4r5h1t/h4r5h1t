@@ -36,9 +36,9 @@ In addition to my technical skills, I have experience with version control using
 When I'm not busy securing the interwebs, you can find me binge-watching 📺 the latest anime releases or reading 📖 the latest manga, manhwa or manhua.
 You can stay updated on my anime journey by following me on [MyAnimeList](https://myanimelist.net/profile/G12m0x19) and [Anilist](https://anilist.co/user/G12M0X19/), where I keep track of everything I've watched or read and rate them accordingly. I'm always on the lookout for new and exciting anime and manga to add to my list, so don't hesitate to send me a recommendation.
 
-I may be a total otaku at heart, but don't let my love for anime fool you, when it comes to cybersecurity, I am all business. I stay sharp by keeping up with the latest developments and trends in the field, and I also share my knowledge and insights with others through my writing on [Medium](https://h4r5h1t-hrs.medium.com/).
+I may be a total otaku at heart, but don't let my love for anime fool you, when it comes to cybersecurity, I am all business. I stay sharp by keeping up with the latest developments and trends in the field, and I also share my knowledge and insights with others through my writing on [Medium](https://h4r5h1t.medium.com/).
 
-Not only that, I also contribute to open-source community by creating security tools that can help others protect their digital assets. You can check out my public repository on GitHub, leave me a star if you find any of my projects useful, and follow my [GitHub](https://github.com/h4r5h1t-hrs) profile to see my progress and join me on my journey to save the galaxy from cyber threats!🚀
+Not only that, I also contribute to open-source community by creating security tools that can help others protect their digital assets. You can check out my public repository on GitHub, leave me a star if you find any of my projects useful, and follow my [GitHub](https://github.com/h4r5h1t) profile to see my progress and join me on my journey to save the galaxy from cyber threats!🚀
 
 ![Harshit's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=h4r5h1t&count_private=true&show_icons=true&include_all_commits=true)
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="19%"/>
