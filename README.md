@@ -71,7 +71,7 @@ Not only that, I also contribute to open-source community by creating security t
 ### Connect with me on<img align='center' src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
 
 [![Twitter Badge](https://img.shields.io/twitter/url?color=1ca0f1&label=%40h4r5h1t_hrs&logo=twitter&logoColor=1ca0f1&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fh4r5h1t_hrs)](https://twitter.com/h4r5h1t_hrs)
-[![Linkedin Badge](https://img.shields.io/twitter/url?color=1ca0f1&label=h4r5h1t-hrs&logo=LinkedIn&logoColor=1ca0f1&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fh4r5h1t%2F)](https://www.linkedin.com/in/h4r5h1t/)
-[![Medium Badge](https://img.shields.io/twitter/url?color=1ca0f1&label=@h4r5h1t&logo=Medium&logoColor=1ca0f1&style=for-the-badge&url=https://medium.com/@h4r5h1t-hrs)](https://medium.com/@h4r5h1t)
+[![Linkedin Badge](https://img.shields.io/twitter/url?color=1ca0f1&label=h4r5h1t&logo=LinkedIn&logoColor=1ca0f1&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fh4r5h1t%2F)](https://www.linkedin.com/in/h4r5h1t/)
+[![Medium Badge](https://img.shields.io/twitter/url?color=1ca0f1&label=@h4r5h1t&logo=Medium&logoColor=1ca0f1&style=for-the-badge&url=https://medium.com/@h4r5h1t)](https://medium.com/@h4r5h1t)
 [![Instagram Badge](https://img.shields.io/twitter/url?color=1ca0f1&label=h4r5h1t.hrs&logo=Instagram&logoColor=1ca0f1&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com%2Fh4r5h1t.hrs%2F)](https://www.instagram.com/h4r5h1t.hrs/)
-[![GitHub followers Badge](https://img.shields.io/twitter/url?color=1ca0f1&label=h4r5h1t-hrs&logo=github&logoColor=1ca0f1&style=for-the-badge&url=https%3A%2F%2Fgithub.com%2Fh4r5h1t%3Ftab%3Dfollowers)](https://github.com/h4r5h1t?tab=followers)
+[![GitHub followers Badge](https://img.shields.io/twitter/url?color=1ca0f1&label=h4r5h1t&logo=github&logoColor=1ca0f1&style=for-the-badge&url=https%3A%2F%2Fgithub.com%2Fh4r5h1t%3Ftab%3Dfollowers)](https://github.com/h4r5h1t?tab=followers)
