@@ -28,7 +28,7 @@ I'm on a mission to harness my skill set to automate monotonous tasks and make a
 - ✔️ Network Security (to secure interstellar communications) <br>
 - ✔️ Serverless Architecture (to create scalable, efficient digital solutions) <br>
 - ✔️ OSINT (to gather critical intelligence) <br>
-
+<br>
 My linguistic expertise spans Python, Golang, Shell Scripting, with foundational knowledge in C/C++, HTML/CSS, and JavaScript. I'm well-versed in Linux (Kali, Ubuntu, Fedora) and Windows environments, adept with tools like Nmap, Burpsuite, ScoutSuite, Nuclei, Akto , Maltego, Wireshark, Selenium, Docker, and a plethora of others. 
 In my latest role as a Cloud Security Analyst, I've honed my abilities to develop Cloud Security & Compliance scanners for AWS and GCP, and designed & developed a comprehensive serverless scanner for malware & secret scanning.
 
@@ -40,7 +40,7 @@ Beyond my technical prowess, I'm a strategic thinker and collaborator, experienc
 When I unplug from my cybersecurity duties, I delve into the world of anime and man-ga/hwa/hua 📺📖. 
 You can stay updated on my anime and manga journey by following me on [MyAnimeList](https://myanimelist.net/profile/G12m0x19) and [Anilist](https://anilist.co/user/G12M0X19/), where I keep track of everything I've watched or read and rate them accordingly. I'm always on the lookout for new and exciting anime and manga to add to my list, so don't hesitate to send me a recommendation.
 
-My passion for otaku culture doesn't overshadow my professional commitment; I'm always keyed into the latest in cybersecurity, sharing my insights on [Medium](https://h4r5h1t.medium.com/), and contributing to open-source projects.<br>
+My passion for otaku culture doesn't overshadow my professional commitment; I'm always keyed into the latest in cybersecurity, sharing my insights on [Medium](https://h4r5h1t.medium.com/), and contributing to open-source projects.
 Check out my [GitHub repository](https://github.com/h4r5h1t?tab=repositories) for security tools that safeguard digital assets, and join me on my quest to keep the galaxy cyber-secure! 🚀
 
 For a detailed look at my professional journey, a PDF version of my resume is available [here](https://drive.google.com/file/d/1ATGBLJO-R0q4T6wRVj7smj_9oBb0bfKF/view?usp=sharing)
