@@ -17,8 +17,7 @@ I'm not just a Security and Automation Researcher & Engineer 💻; I'm a guardia
 I'm on a mission to harness my skill set to automate monotonous tasks and make a significant impact in the infosec community 🌐.
 
 ### My arsenal of skills includes: <img align='center' src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 33px> <br>
-<p align="right"> <img src="https://media.giphy.com/media/JOLlBirHkuoVRPOMnZ/giphy.gif" width="23%" align="right">
-</p>
+<p align="right"> <img src="https://media.giphy.com/media/JOLlBirHkuoVRPOMnZ/giphy.gif" width="23%" align="right"></p>
 - ✔️ Security Automation (to shield the galaxy) <br>
 - ✔️ Application Security (to fortify against alien intrusions) <br>
 - ✔️ Cloud Security (to navigate the nebulous skies of cloud computing) <br>
@@ -31,11 +30,11 @@ I'm on a mission to harness my skill set to automate monotonous tasks and make a
 <br>
 My linguistic expertise spans Python, Golang, Shell Scripting, with foundational knowledge in C/C++, HTML/CSS, and JavaScript. I'm well-versed in Linux (Kali, Ubuntu, Fedora) and Windows environments, adept with tools like Nmap, Burpsuite, ScoutSuite, Nuclei, Akto , Maltego, Wireshark, Selenium, Docker, and a plethora of others. 
 In my latest role as a Cloud Security Analyst, I've honed my abilities to develop Cloud Security & Compliance scanners for AWS and GCP, and designed & developed a comprehensive serverless scanner for malware & secret scanning.
-
+<br>
+<br>
 Beyond my technical prowess, I'm a strategic thinker and collaborator, experienced in Git, GitHub, GitLab, Bitbucket, CI/CD pipelines, and Agile methodologies. My journey in cybersecurity is a continuous learning experience, sharpened by active participation in labs on [TryHackMe](https://www.tryhackme.com/p/h4r5h1t.hrs) and [PortSwigger](https://portswigger.net/web-security/).
 
 <p align="right"> <img src="https://media.giphy.com/media/Sb7WSbjHFNIL6/giphy.gif" width="25%" align="right"> </p>
-
 
 When I unplug from my cybersecurity duties, I delve into the world of anime and man-ga/hwa/hua 📺📖. 
 You can stay updated on my anime and manga journey by following me on [MyAnimeList](https://myanimelist.net/profile/G12m0x19) and [Anilist](https://anilist.co/user/G12M0X19/), where I keep track of everything I've watched or read and rate them accordingly. I'm always on the lookout for new and exciting anime and manga to add to my list, so don't hesitate to send me a recommendation.
