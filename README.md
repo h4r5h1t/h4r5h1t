@@ -32,7 +32,7 @@ My linguistic expertise spans Python, Golang, Shell Scripting, with foundational
 In my latest role as a Cloud Security Analyst, I've honed my abilities to develop Cloud Security & Compliance scanners for AWS and GCP, and designed & developed a comprehensive serverless scanner for malware & secret scanning.
 <br>
 <br>
-Beyond my technical prowess, I'm a strategic thinker and collaborator, experienced in Git, GitHub, GitLab, Bitbucket, CI/CD pipelines, and Agile methodologies. My journey in cybersecurity is a continuous learning experience, sharpened by active participation in labs on [TryHackMe](https://www.tryhackme.com/p/h4r5h1t.hrs) and [PortSwigger](https://portswigger.net/web-security/).
+Beyond my technical prowess, I'm a strategic thinker and collaborator, experienced in Git, GitHub, GitLab, Bitbucket, CI/CD pipelines, and Agile methodologies. My journey in cybersecurity is a continuous learning experience, sharpened by active participation in labs on <a href="https://www.tryhackme.com/p/h4r5h1t.hrs"> TryHackMe </a> and <a href="https://portswigger.net/web-security/"> PortSwigger </a>.
 
 <p align="right"> <img src="https://media.giphy.com/media/Sb7WSbjHFNIL6/giphy.gif" width="25%" align="right"> </p>
 
