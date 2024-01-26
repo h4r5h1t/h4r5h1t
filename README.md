@@ -42,7 +42,7 @@ You can stay updated on my anime and manga journey by following me on [MyAnimeLi
 My passion for otaku culture doesn't overshadow my professional commitment; I'm always keyed into the latest in cybersecurity, sharing my insights on [Medium](https://h4r5h1t.medium.com/), and contributing to open-source projects.
 Check out my [GitHub repository](https://github.com/h4r5h1t?tab=repositories) for security tools that safeguard digital assets, and join me on my quest to keep the galaxy cyber-secure! 🚀
 
-For a detailed look at my professional journey, a PDF version of my resume is available [here](https://drive.google.com/file/d/1ATGBLJO-R0q4T6wRVj7smj_9oBb0bfKF/view?usp=sharing)
+For a detailed look at my professional journey, a PDF version of my resume is available [here](https://drive.google.com/file/d/1FUr0lOe7ibN8wxwwbeSohSxjOjVqWOFd/view?usp=sharing)
 
 --------
 
